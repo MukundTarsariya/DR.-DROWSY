@@ -48,8 +48,11 @@ Line graph of fatal crashes and fatalities involved drowsy driving [1]
 
 ![image](https://user-images.githubusercontent.com/98721095/156838311-ddb61c51-36d6-42b5-b9ec-f9ffb55c8f60.png)
 
+![image](https://user-images.githubusercontent.com/98721095/156838802-af78cd39-84f9-4038-a00a-cafc67d85ad7.png)
 
-## Refrences
+
+
+## References
 [1] Borrelli, L. (May 10, 2021). Drowsy driving statistics and facts 2021. Bankrate.https://www.bankrate.com/insurance/car/drowsy-driving-statistics/
 
 [2] Murdeshwar, P. Salian, S. (May 2019). Driver Drowsiness detection using machine learning approach. ResearchGate.https://www.researchgate.net/publication/348777310_Driver_Drowsiness_Detection_using_Machine_Learning_Approach
