@@ -1,6 +1,4 @@
 # Driver-Drowsiness-Detection-using-ML
-Machine Learning Project carrying out by group of students from Loyalist College in Toronto
-
 
 
 ## Introduction
