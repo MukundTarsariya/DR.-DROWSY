@@ -1,19 +1,7 @@
 # Driver-Drowsiness-Detection-using-ML
 Machine Learning Project carrying out by group of students from Loyalist College in Toronto
 
-## Team Members
-- Aakash Jadhav <aakashjadhav@loyalistcollege.com>;
-- Bindiya Gandhi <bindiyagandhi@loyalistcollege.com>;
-- Mahesh Eranga Kumaranayake Hewa Rahinduwage <mahesherangakumar@loyalistcollege.com>;
-- Mohammedtareeq Sajjadahmed Shaikh <mohammedtareeqsaj@loyalistcollege.com>;
-- Mukund Tarsariya <mukundtarsariya@loyalistcollege.com>;
-- Prashant Pandit Kutade <prashantpanditkut@loyalistcollege.com>;
-- Raviteja Boda <ravitejaboda@loyalistcollege.com>;
-- Savan Patel <savanpatel@loyalistcollege.com>;
-- Shanikumar Bhoi <shanikumarbhoi@loyalistcollege.com>;
-- Shwetha Hanumenahalli Shivanna <shwethahanumenaha@loyalistcollege.com>;
-- Sohini Roy Chowdhury <sohiniroychowdhur@loyalistcollege.com>;
-- Vishal .4 <vishal4@loyalistcollege.com>;
+
 
 ## Introduction
 "In the last 30 days, 1 out of every 25 adult drivers has fallen asleep at the wheel."
